@@ -14,5 +14,5 @@
 </picture>
 </p>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fperellaholfeld&show_icons=true&locale=en&layout=compact&theme=radical&hide=handlebars" alt="fperellaholfeld" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fperellaholfeld&show_icons=true&locale=en&layout=compact&theme=radical&hide=handlebars" alt="fperellaholfeld's github stats" /></p>
 
