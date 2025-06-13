@@ -1,7 +1,4 @@
 <p align="center"> 
-<picture>
-  <source srcset="banner.png">
-  <img alt="Hi, I'm Francisco. A Full Stack Developer and Researcher">
-</picture>
+<img src='https://github.com/fperellaholfeld/fperellaholfeld/blob/main/assets/banner.png' alt='Hi, I'm Francisco. A Full Stack Developer and Researcher')
 </p>
 
