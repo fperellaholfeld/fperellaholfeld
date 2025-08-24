@@ -28,3 +28,6 @@
   
 </table>
 </section>
+<section>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fperellaholfeld&layout=compact)
+</section>
